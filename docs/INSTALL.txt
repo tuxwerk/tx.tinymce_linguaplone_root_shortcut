@@ -1,17 +1,4 @@
 tx.tinymce_linguaplone_root_shortcut Installation
 -------------------------------------------------
 
-If you are using buildout you can do this:
-
-* Add ``tx.tinymce_linguaplone_root_shortcut`` to the list of eggs to install, e.g.:
-
-    [buildout]
-    ...
-    eggs =
-        ...
-        tx.tinymce_linguaplone_root_shortcut
-       
-* Re-run buildout, e.g. with:
-
-    $ ./bin/buildout -N
-        
+See README.md
