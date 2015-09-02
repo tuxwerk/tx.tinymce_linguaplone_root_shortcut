@@ -6,7 +6,7 @@ version = '1.0'
 setup(name='tx.tinymce_linguaplone_root_shortcut',
       version=version,
       description="Navigate to site root for language neutral content",
-      long_description=open("README.txt").read() + "\n" +
+      long_description=open("README.md").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from
       # http://pypi.python.org/pypi?:action=list_classifiers
